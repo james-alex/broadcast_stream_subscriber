@@ -2,7 +2,7 @@ name: broadcast_stream_subscriber
 description: >-
   A mixin with a minimal set of methods to add
   and manage StreamSubscriptions on any class.
-version: 0.1.0+1
+version: 0.1.0+2
 homepage: https://github.com/james-alex/broadcast_stream_subscriber
 
 environment:
