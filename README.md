@@ -1,5 +1,8 @@
 # broadcast_stream_subscriber
 
+[![pub package](https://img.shields.io/pub/v/broadcast_stream_subscriber.svg)](https://pub.dartlang.org/packages/broadcast_stream_subscriber)
+[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://github.com/tenhobi/effective_dart)
+
 A Dart mixin with a minimal set of methods to add and manage [StreamSubscription]s
 and notify them of events with a broadcast (multi-stream) [StreamController].
 
