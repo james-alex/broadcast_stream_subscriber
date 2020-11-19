@@ -1,3 +1,7 @@
+__NOTICE:__ This package has been deprecated. Its contents are included in the
+[stream_subscriber](https://github.com/james-alex/stream_subscriber) package,
+where it will be maintained.
+
 # broadcast_stream_subscriber
 
 [![pub package](https://img.shields.io/pub/v/broadcast_stream_subscriber.svg)](https://pub.dartlang.org/packages/broadcast_stream_subscriber)
